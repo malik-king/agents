@@ -1,0 +1,5 @@
+Mozilla/5.0 (Mobile; LG-D300; rv:18.1) Gecko/18.1 Firefox/18.1 SonyEricssonK750i/R1CA/SNXXXXXXXXXXXXXXX Browser/SEMC-Browser/4.4 Profile/MIDP-2.0 Configuration/CLDC-1.1
+Mozilla/5.0 (Java; U; kau; sonyericssonk750i) UCBrowser8.2.0.132/69/452/UCWEB Mobile
+Mozilla/5.0 (Linux; Android 8.1.0; LG-Q710AL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.96 Mobile Safari/537.36
+Mozilla/5.0 (Linux; Android 8.1.0; BBB100-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36
+Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; en-GB) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.546 Mobile Safari/534.8+
